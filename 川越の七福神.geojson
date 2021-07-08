@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妙善寺",
+        "description": "毘沙門天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.486091,
+          35.906102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "天然寺",
+        "description": "寿老人",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.494281,
+          35.908012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "喜多院",
+        "description": "大黒天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.489009,
+          35.91749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "成田山",
+        "description": "恵比須天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.488784,
+          35.919292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "蓮馨寺",
+        "description": "福禄寿神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481921,
+          35.919618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "見立寺",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.480138,
+          35.924621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "妙昌寺",
+        "description": "弁財天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.47648,
+          35.920138
+        ]
+      }
+    }
+  ]
+}
